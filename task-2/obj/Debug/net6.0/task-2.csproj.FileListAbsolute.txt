@@ -1,0 +1,5 @@
+C:\Users\aser\Desktop\Soft club\C#\Exams\exam-1\task-2\obj\Debug\net6.0\task-2.csproj.AssemblyReference.cache
+C:\Users\aser\Desktop\Soft club\C#\Exams\exam-1\task-2\obj\Debug\net6.0\task-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aser\Desktop\Soft club\C#\Exams\exam-1\task-2\obj\Debug\net6.0\task-2.AssemblyInfoInputs.cache
+C:\Users\aser\Desktop\Soft club\C#\Exams\exam-1\task-2\obj\Debug\net6.0\task-2.AssemblyInfo.cs
+C:\Users\aser\Desktop\Soft club\C#\Exams\exam-1\task-2\obj\Debug\net6.0\task-2.csproj.CoreCompileInputs.cache
